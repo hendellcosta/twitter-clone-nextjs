@@ -13,6 +13,11 @@
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
+Run:
+`git clone https://github.com/hendellcosta/twitter-clone-nextjs.git`
+
+`cd twitter-clone-nextjs`
+
 Installation:
 
 `npm install`
